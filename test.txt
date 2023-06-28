@@ -1,3 +1,6 @@
 Hi Raman Welcome to git merge and merge conflict tool
 
 Second commit
+
+Thrid commit
+
